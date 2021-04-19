@@ -1,1 +1,1 @@
-# python-quickbooks-project
+# Python Quickbooks Project
